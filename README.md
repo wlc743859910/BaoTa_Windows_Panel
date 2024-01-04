@@ -2,25 +2,25 @@
 
 ---
 
-<h1 align="center">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/wlc743859910/BaoTa_Windows_Panel/img/gh-readme-header.webp">
-</h1>
+</p>
 
-<h1 align="center">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/wlc743859910/BaoTa_Windows_Panel/img/template.webp">
-</h1>
+</p>
 
-<h1 align="center">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/wlc743859910/BaoTa_Windows_Panel/img/1424469275.webp">
-</h1>
+</p>
 
-<h1 align="center">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/wlc743859910/BaoTa_Windows_Panel/img/fbCScVCQ.webp">
-</h1>
+</p>
 
-<h1 align="center">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/wlc743859910/BaoTa_Windows_Panel/img/programmer.webp">
-</h1>
+</p>
 
 ---
 
