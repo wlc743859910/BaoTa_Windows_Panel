@@ -1,8 +1,4 @@
-# BaoTa_Windows_Panel
-
----
-
-BaoTa_Windows_Panel 私人定制版
+# BaoTa_Windows_Panel 私人定制版
 
 ---
 
