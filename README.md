@@ -3,23 +3,23 @@
 ---
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/BaoTa_Windows_Panel/img/gh-readme-header.webp">
+  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/BaoTa_Windows_Panel/img/1.webp">
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/BaoTa_Windows_Panel/img/template.webp">
+  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/BaoTa_Windows_Panel/img/2.webp">
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/BaoTa_Windows_Panel/img/1424469275.webp">
+  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/BaoTa_Windows_Panel/img/3.webp">
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/BaoTa_Windows_Panel/img/fbCScVCQ.webp">
+  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/BaoTa_Windows_Panel/img/4.webp">
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/BaoTa_Windows_Panel/img/programmer.webp">
+  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/BaoTa_Windows_Panel/img/5.webp">
 </p>
 
 ---
